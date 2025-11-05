@@ -10,9 +10,8 @@
 > 7. **El Servidor envía la misma línea de vuelta al Cliente, prefijada con "ECO: ".** 
 > 8. **El Cliente lee la respuesta "ECO:" del servidor y la imprime por pantalla.**
 
----
 
-# CLASE CLIENTE 🌷:
+## CLASE CLIENTE 🌷:
 ```java
 package org.example;
 import java.io.*;
@@ -74,7 +73,7 @@ public class Cliente {
 
 <br> 
 
-# CLASE SERVIDOR 🌼: 
+## CLASE SERVIDOR 🌼: 
 
 ```java
 package org.example;
