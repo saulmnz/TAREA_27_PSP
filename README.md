@@ -68,6 +68,8 @@ public class Cliente {
 }
 ```
 
+<br>
+
 ---
 
 # CLASE SERVIDOR 🌼: 
